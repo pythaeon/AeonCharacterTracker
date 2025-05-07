@@ -1,0 +1,9 @@
+## Interface: 40300
+## Title: Aeon Character Tracker
+## Notes: Tracks character data across your account.
+## Author: YourName
+## Version: 0.1
+## SavedVariables: AeonCharacterData
+
+AeonCharacterTracker.xml
+AeonCharacterTracker.lua
